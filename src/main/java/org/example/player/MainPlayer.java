@@ -2,7 +2,7 @@ package org.example.player;
 
 public class MainPlayer {
     public static void main(String[] args) {
-        PlayerInplement player = new PlayerInplement();
+        Player player = new Player();
         MusicCD cd1 = new MusicCD("Sting");
         MusicCD cd2 = new MusicCD("Radzis");
         MusicCD cd3 = new MusicCD("Cicinas");

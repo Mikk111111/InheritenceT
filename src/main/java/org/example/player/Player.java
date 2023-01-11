@@ -1,6 +1,6 @@
 package org.example.player;
 
-public class PlayerInplement {
+public class Player{
     public void run(Multimedia media) {
         media.play();
     }
