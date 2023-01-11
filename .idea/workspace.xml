@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5c03a9e-75a4-40b1-b2d2-183c8d35af93" name="Changes" comment="3 commit abstract">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneinreface/MainInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneinreface/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneinreface/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneinreface/Tax.java" afterDir="false" />
+    <list default="true" id="b5c03a9e-75a4-40b1-b2d2-183c8d35af93" name="Changes" comment="4 commit interface">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/player/MainPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/player/Multimedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/player/MusicCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/player/PlayerInplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/player/VideoDVD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -49,12 +51,15 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.player" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mikk0\IdeaProjects\InheritenceT\src\main\java\org\example\phoneinreface" />
       <recent name="C:\Users\mikk0\IdeaProjects\InheritenceT\src\main\java\org\example\phoneabs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainABS">
+  <component name="RunManager" selected="Application.MainPlayer">
     <configuration name="MainABS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.phoneabs.MainABS" />
       <module name="InheritenceT" />
@@ -81,8 +86,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.player.MainPlayer" />
+      <module name="InheritenceT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainPlayer" />
         <item itemvalue="Application.MainABS" />
         <item itemvalue="Application.MainPhone" />
       </list>
@@ -125,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673422988442</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4 commit interface">
+      <created>1673426600299</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673426600299</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +169,7 @@
     <MESSAGE value="1st coomit" />
     <MESSAGE value="2 coomit after cached clear&#10;git rm -r -f --cached .idea" />
     <MESSAGE value="3 commit abstract" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 commit abstract" />
+    <MESSAGE value="4 commit interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 commit interface" />
   </component>
 </project>
