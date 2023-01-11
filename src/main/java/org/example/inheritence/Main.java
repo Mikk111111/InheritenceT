@@ -7,7 +7,7 @@ public class Main {
         ClassA clA = new ClassA();
         ClassB clB = new ClassB();
         ClassC clC = new ClassC();
-        ClassD clD = new ClassD();
+        ClassD clD = new ClassD("");
         clA.varAA="aa";
 
     }

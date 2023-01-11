@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c03a9e-75a4-40b1-b2d2-183c8d35af93" name="Changes" comment="2 coomit after cached clear&#10;git rm -r -f --cached .idea">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritence/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritence/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritence/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritence/ClassD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritence/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phone/MainPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phone/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phone/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phone/Tax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneabs/MainABS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneabs/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneabs/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneabs/Tax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/inheritence/ClassD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritence/ClassD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/inheritence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritence/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +51,49 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/mikk0/IdeaProjects/InheritenceT/src/main/java/org/example/phoneabs"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mikk0\IdeaProjects\InheritenceT\src\main\java\org\example\phoneabs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainABS">
+    <configuration name="MainABS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.phoneabs.MainABS" />
+      <module name="InheritenceT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.phoneabs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.phone.MainPhone" />
+      <module name="InheritenceT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.phone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainABS" />
+        <item itemvalue="Application.MainPhone" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,8 +117,26 @@
       <option name="project" value="LOCAL" />
       <updated>1673341807143</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2 coomit after cached clear&#10;git rm -r -f --cached .idea">
+      <created>1673353115175</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673353115175</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st coomit" />
