@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5c03a9e-75a4-40b1-b2d2-183c8d35af93" name="Changes" comment="2 coomit after cached clear&#10;git rm -r -f --cached .idea">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phone/MainPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phone/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phone/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phone/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneabs/MainABS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneabs/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneabs/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneabs/Tax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/inheritence/ClassD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritence/ClassD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/inheritence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritence/Main.java" afterDir="false" />
+    <list default="true" id="b5c03a9e-75a4-40b1-b2d2-183c8d35af93" name="Changes" comment="3 commit abstract">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneinreface/MainInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneinreface/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneinreface/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phoneinreface/Tax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/player/MainPlayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +45,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/mikk0/IdeaProjects/InheritenceT/src/main/java/org/example/phoneabs"
+    "last_opened_file_path": "C:/Users/mikk0/IdeaProjects/InheritenceT/src/main/java/org/example/phoneinreface"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mikk0\IdeaProjects\InheritenceT\src\main\java\org\example\phoneinreface" />
       <recent name="C:\Users\mikk0\IdeaProjects\InheritenceT\src\main\java\org\example\phoneabs" />
     </key>
   </component>
@@ -124,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673353115175</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3 commit abstract">
+      <created>1673422988441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673422988442</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st coomit" />
     <MESSAGE value="2 coomit after cached clear&#10;git rm -r -f --cached .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 coomit after cached clear&#10;git rm -r -f --cached .idea" />
+    <MESSAGE value="3 commit abstract" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 commit abstract" />
   </component>
 </project>
