@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5c03a9e-75a4-40b1-b2d2-183c8d35af93" name="Changes" comment="4 commit interface">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/player/MainPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/player/Multimedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/player/MusicCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/player/PlayerInplement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/player/VideoDVD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b5c03a9e-75a4-40b1-b2d2-183c8d35af93" name="Changes" comment="5 commit player interface pr">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/player/MainPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/player/MainPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/player/PlayerInplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/player/PlayerInplement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673426600299</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="5 commit player interface pr">
+      <created>1673430934368</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673430934368</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +173,7 @@
     <MESSAGE value="2 coomit after cached clear&#10;git rm -r -f --cached .idea" />
     <MESSAGE value="3 commit abstract" />
     <MESSAGE value="4 commit interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 commit interface" />
+    <MESSAGE value="5 commit player interface pr" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 commit player interface pr" />
   </component>
 </project>
