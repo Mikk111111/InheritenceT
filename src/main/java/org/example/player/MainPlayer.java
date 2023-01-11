@@ -24,5 +24,6 @@ public class MainPlayer {
         player.run(dvd4);
 
         Blueray br1 = new Blueray("Sorana");
+        player.run(br1);
     }
 }
